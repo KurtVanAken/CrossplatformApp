@@ -1,0 +1,7 @@
+{ 
+    "extends": "rallycoding",
+     "rules": { 
+        "import/no-extaneous-dependencies": 0 
+        } ,
+        "parser": "babel-eslint"
+}
